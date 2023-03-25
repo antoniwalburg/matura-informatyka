@@ -1,0 +1,8 @@
+Odp:
+    4.1 => 422
+    4.2 =>
+    Ilość liczb podzielnych przez dwa(2): 500
+    Ilość liczb podzielnych przez osiem(8): 123
+    4.3 =>
+    Najmniejsza liczba to: 859
+    Największa liczba to: 925
